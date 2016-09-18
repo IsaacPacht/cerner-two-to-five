@@ -33,8 +33,8 @@ def matcher = (poem =~ "\\[([A-Za-z ]+)\\:([A-Za-z ]+)\\]")
 def sb = new StringBuffer();
 while (matcher.find()) {
     def replacement = System.console().readLine "${matcher.group(2)}:"
-    matcher.appendReplacement(sb, replacement.isEmpty() ? matcher.group(1) : replacement);
+    matcher.appendReplacement(sb, replacement ?: matcher.group(1));
 }
 matcher.appendTail(sb);
 
-println sb.toString()
+println sb 
