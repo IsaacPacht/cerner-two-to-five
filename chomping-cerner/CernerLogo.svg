@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1024"
+   height="259"
+   viewBox="-1.66762506 -1.66762506 232.75398012 58.92275212"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CernerLogo.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="3.1819805"
+     inkscape:cx="218.18028"
+     inkscape:cy="82.674308"
+     inkscape:window-x="1352"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 8,34 C 8,34 13,43 42,43 C 59,44 93,38 93,38 C 101,26 101,26 101,26 C 101,26 58,31 42,31 C 34,31 11,31 9,18 C 6,23 5,29 8,34"
+     id="pathTopGreen"
+     style="fill:#7bc143;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     d="M 19,44 C 3,42 4,55 9,63 C 11,57 14,54 19,55 C 24,57 30,59 43,59 C 62,59 83,55 83,55 C 90,42 90,42 90,42 C 90,42 61,47 44,47 C 32,47 25,45 19,44"
+     id="pathBottomGreen"
+     style="fill:#7bc143;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscccc" />
+  <path
+     d="M 10,17 C 10,21 13,24 18,26 C 23,18 31,14 41,14 C 48,14 55,17 61,22 C 65,22 70,21 75,21 C 68,9 55,1 42,1 C 19,0 10,17 10,17"
+     id="pathTopBlue"
+     style="fill:#0d94d2;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccscccc" />
+  <path
+     d="M 41,80 C 55,80 68,72 75,61 C 69,62 60,63 56,63 C 52,66 47,67 41,67 C 32,67 24,63 19,56 C 15,54 11,58 10,63 C 12,70 20,80 41,80"
+     id="pathBottomBlue"
+     style="fill:#0d94d2;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccsccc" />
+</svg>
